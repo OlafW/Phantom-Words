@@ -16,6 +16,6 @@ To use this application, you have to have (the free trial version of) [Max/MSP](
 To fully experience the illusion, it is important that you do not use headphones, but ideally two separate speakers placed in a stereo setup.
 It is recommend that you write down the words you hear while you are listening. The application does not come with prerecorded sounds.
 You can load in an existing sound file (preferably in wav format), or record your own voice.  
-Below is a screenshot of the  with an explanation of how to use it.  
+Below is a screenshot of the application with an explanation of how to use it.  
 
 ![alt text](https://github.com/OlafW/Phantom-Words/blob/master/phantom-words-screenshot.png)
