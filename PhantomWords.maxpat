@@ -102,7 +102,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 511.5, 355.75, 86.0, 30.0 ],
 					"relative" : 1,
-					"size" : 1000.0,
+					"size" : 783.0,
 					"varname" : "slider"
 				}
 
@@ -238,7 +238,7 @@
 					"presentation" : 1,
 					"presentation_linecount" : 3,
 					"presentation_rect" : [ 494.5, 113.0, 124.0, 69.0 ],
-					"text" : "Click and select a portion of the waveform"
+					"text" : "Click and select a part of the waveform"
 				}
 
 			}
@@ -1313,14 +1313,14 @@
 					"presentation_rect" : [ 855.5, 193.0, 42.0, 216.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 4,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "live.gain~[1]",
 							"parameter_initial_enable" : 1,
 							"parameter_mmax" : 30.0,
 							"parameter_initial" : [ 0.0 ],
-							"parameter_shortname" : "live.gain~"
+							"parameter_shortname" : "live.gain~",
+							"parameter_type" : 0,
+							"parameter_unitstyle" : 4
 						}
 
 					}
@@ -3536,14 +3536,14 @@
 					"presentation_rect" : [ 910.5, 196.0, 36.0, 210.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 4,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "live.gain~",
 							"parameter_initial_enable" : 1,
 							"parameter_mmax" : 30.0,
 							"parameter_initial" : [ 0.0 ],
-							"parameter_shortname" : "live.gain~"
+							"parameter_shortname" : "live.gain~",
+							"parameter_type" : 0,
+							"parameter_unitstyle" : 4
 						}
 
 					}
